@@ -13,4 +13,4 @@ Below is a screenshot after having performed template matching on a 1280x1200 so
 
 The template image is in the lower right corner; in this example two matches have been found in the source image.
 
-To try this example out, run an HTTP server in the project directory and navigate to it in the web browser.
+To try this example out, run a web server that serves the project folder.
